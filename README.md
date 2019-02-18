@@ -26,4 +26,6 @@ gcc balls_random_motion.c -lglut -lGL -lGLEW -lGLU -o balls
 
 ## Deployment
 
+Running program GIF:\
+
 ![](myimage.gif)
